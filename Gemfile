@@ -13,6 +13,7 @@ gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'bootstrap-sass'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'devise', '~> 3.5', '>= 3.5.6'
+gem 'paperclip', '~> 4.3', '>= 4.3.5'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 # Use ActiveModel has_secure_password
